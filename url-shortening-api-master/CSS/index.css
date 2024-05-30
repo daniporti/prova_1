@@ -1,0 +1,9 @@
+#shortenedUrls {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #shortenedUrls li {
+    margin-bottom: 5px;
+  }
+  
